@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: blue;
+    position: relative;
+    width: 100%;
+    height: 60px;
+
+}
+
+.box {
+    display: inline-block;
+    width: 150px;
+    height: 30px;
+    background-color: antiquewhite;
+   
+}
+
+
+#left-box-position {
+    position: absolute;
+    top: 15px;
+    left: 100px;
+}
+
+#middle-box-position {
+    position: absolute;
+    top: 15px;
+    left: 700px;
+}
+
+#right-box-position {
+    position: absolute;
+    top: 15px;
+    left: 1300px;
+   
+}
